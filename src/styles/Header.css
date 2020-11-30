@@ -1,10 +1,10 @@
 .header {
-    padding: 30px 0;
-    color: #e7f8ff;
-    background-color: #101D42;
+    padding: 20px 0;
+    border-bottom: 10px solid #16dbba;
+    color: #f7fdff;
+    background-color: #19223a;
     width: 100%;
     text-align: center;
-    border-bottom: 5px solid #DB162F;
     margin-bottom: 10px;
     font-size: xx-large;
 }
